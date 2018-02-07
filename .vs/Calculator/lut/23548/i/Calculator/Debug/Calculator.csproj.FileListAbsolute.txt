@@ -1,0 +1,9 @@
+C:\src\Calculator\.vs\Calculator\lut\0\b\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\src\Calculator\.vs\Calculator\lut\0\b\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\src\Calculator\.vs\Calculator\lut\0\b\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\src\Calculator\.vs\Calculator\lut\0\b\Calculator\bin\Debug\Calculator.dll
+C:\src\Calculator\.vs\Calculator\lut\0\b\Calculator\bin\Debug\Calculator.pdb
+C:\src\Calculator\.vs\Calculator\lut\0\i\Calculator\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\src\Calculator\.vs\Calculator\lut\0\i\Calculator\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\src\Calculator\.vs\Calculator\lut\0\i\Calculator\Debug\Calculator.dll
+C:\src\Calculator\.vs\Calculator\lut\0\i\Calculator\Debug\Calculator.pdb
